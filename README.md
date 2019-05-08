@@ -5,7 +5,7 @@ We sincerely appreciate your work on this paper.
 
 The following video records the representation learning process of the three models on AD dataset (better to watch in full-screen mode).
 
-<iframe width="832" height="468" src="https://www.youtube.com/embed/XnSpqwWSpHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="832" height="468" src="https://www.youtube.com/embed/4tHlMz4X96w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As seen from the video, Co-Embedding can exploit the complementary information from well-learned representations to assist the learning of representations that make mistakes. 
 
