@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Comparison of representations learned from different models
+
+We sincerely thank you for your hard work for this paper.
+The following video records the representation learning process of the three models on AD dataset.
+<iframe width="832" height="468" src="https://www.youtube.com/embed/XnSpqwWSpHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 You can use the [editor on GitHub](https://github.com/Co-Embedding/Co-Embedding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XnSpqwWSpHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
