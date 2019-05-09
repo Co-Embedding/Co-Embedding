@@ -1,6 +1,6 @@
 ## Comparison of representations learned from different models
 
-We sincerely appreciate your work on this paper.
+We sincerely appreciate your hard work on this paper.
 
 
 The following video records the representation learning process of the three models on AD dataset (better to watch in full-screen mode).
